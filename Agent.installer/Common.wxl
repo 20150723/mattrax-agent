@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+	<String Id="ProductName">Mattrax Agent</String>
+  <String Id="Manufacturer">Mattrax</String>
+  <String Id="Description">A small agent designed to supplement the Windows MDM protocol!</String>
+  <String Id="DowngradeErrorMessage">A newer version of Mattrax Agent is already installed.</String>
+  <String Id="HelpSupportWebsite">https://mattrax.app</String>
+  <String Id="ProgramFilesDirectory">MattraxAgent</String>
+</WixLocalization>
